@@ -1,0 +1,1646 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53421965964618,
+              22.78771730871222
+            ],
+            [
+              89.5348041067009,
+              22.78710500060041
+            ],
+            [
+              89.53493850631186,
+              22.787017805412752
+            ],
+            [
+              89.53495122715024,
+              22.78770567870041
+            ],
+            [
+              89.53421965964618,
+              22.78771730871222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.44107281605176024,
+        "S2_nobs": 8.712775557560912,
+        "cell_id": "3040_10088",
+        "grid_m": 250,
+        "lat": 22.78746853133241,
+        "lon": 89.53470025736446,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 10.200281008552103,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 75.40286193115897,
+        "NDVI_2019": 0.51011373941914,
+        "NDVI_2026": 0.44107281605176024,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.06904092336737991,
+        "green_both_dates_pct_common_valid": 65.54080185638779,
+        "greenness_loss_pct_common_valid": 13.097847105839888,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 10.5066391646255,
+        "built_class_pct_2021": 63.40079927807142,
+        "built_m2_2020": 246.65098039215684,
+        "cropland_class_pct_2021": 3.4678355034162696,
+        "tree_class_pct_2021": 33.131365218512315,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 3042.7686767578125,
+        "geodesic_area_m2": 3047.633732507049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53493850631186,
+              22.787017805412752
+            ],
+            [
+              89.53596282099097,
+              22.78635324802309
+            ],
+            [
+              89.5369498739099,
+              22.78591802094284
+            ],
+            [
+              89.5370907617052,
+              22.787671646427864
+            ],
+            [
+              89.53495122715024,
+              22.78770567870041
+            ],
+            [
+              89.53493850631186,
+              22.787017805412752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.3223821527440645,
+        "S2_nobs": 8.560971849263147,
+        "cell_id": "3041_10088",
+        "grid_m": 250,
+        "lat": 22.7870154710349,
+        "lon": 89.5361288227496,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 224.8642701840868,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 44.497693721010904,
+        "NDVI_2019": 0.44111325284458336,
+        "NDVI_2026": 0.3223821527440645,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.11873110010051895,
+        "green_both_dates_pct_common_valid": 36.078169366961745,
+        "greenness_loss_pct_common_valid": 39.639732240366946,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 27.2423584432938,
+        "built_class_pct_2021": 60.65963433593297,
+        "built_m2_2020": 5684.643137254901,
+        "cropland_class_pct_2021": 0.32763294831108425,
+        "tree_class_pct_2021": 37.046935025889425,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 30526.738403320312,
+        "geodesic_area_m2": 30575.52104003017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53287359647203,
+              22.789995565824285
+            ],
+            [
+              89.53385996913194,
+              22.78809414241819
+            ],
+            [
+              89.53421965964618,
+              22.78771730871222
+            ],
+            [
+              89.53495122715024,
+              22.78770567870041
+            ],
+            [
+              89.53499295452252,
+              22.78996187964344
+            ],
+            [
+              89.53287359647203,
+              22.789995565824285
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.4909835686837668,
+        "S2_nobs": 8.20676515058641,
+        "cell_id": "3040_10089",
+        "grid_m": 250,
+        "lat": 22.789009302441457,
+        "lon": 89.53418074559691,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 250.396950860117,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 76.85321400841812,
+        "NDVI_2019": 0.5136237067004982,
+        "NDVI_2026": 0.4909835686837668,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.02264013801673105,
+        "green_both_dates_pct_common_valid": 70.3404029259123,
+        "greenness_loss_pct_common_valid": 13.75710024110171,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 12.344203342732213,
+        "built_class_pct_2021": 57.28106738588533,
+        "built_m2_2020": 5968.101960784314,
+        "cropland_class_pct_2021": 0.7457807200359609,
+        "tree_class_pct_2021": 41.71263945077847,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 38390.05749511719,
+        "geodesic_area_m2": 38451.43820534112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5370907617052,
+              22.787671646427864
+            ],
+            [
+              89.537271857241,
+              22.789925626141983
+            ],
+            [
+              89.53499295452252,
+              22.78996187964344
+            ],
+            [
+              89.53495122715024,
+              22.78770567870041
+            ],
+            [
+              89.5370907617052,
+              22.787671646427864
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.347332838936253,
+        "S2_nobs": 9.055718738553193,
+        "cell_id": "3041_10089",
+        "grid_m": 250,
+        "lat": 22.788828062913076,
+        "lon": 89.53607728551633,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 651.887172945808,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 45.2930728241563,
+        "NDVI_2019": 0.4297003091553948,
+        "NDVI_2026": 0.347332838936253,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.08236747021914159,
+        "green_both_dates_pct_common_valid": 40.358418975610086,
+        "greenness_loss_pct_common_valid": 27.66861795135841,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 22.38148882791604,
+        "built_class_pct_2021": 67.39603707210539,
+        "built_m2_2020": 15439.54901960784,
+        "cropland_class_pct_2021": 2.6435645617211847,
+        "tree_class_pct_2021": 25.554457429971453,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 56744.52746582031,
+        "geodesic_area_m2": 56835.2420366913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53168342296189,
+              22.792271338646156
+            ],
+            [
+              89.53244376277158,
+              22.79082413662483
+            ],
+            [
+              89.53257034489646,
+              22.79058013108219
+            ],
+            [
+              89.53260132801601,
+              22.792256758173327
+            ],
+            [
+              89.53168342296189,
+              22.792271338646156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.4497392020738222,
+        "S2_nobs": 7.9981165074667,
+        "cell_id": "3039_10090",
+        "grid_m": 250,
+        "lat": 22.791703468750153,
+        "lon": 89.53228511182725,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 4.26827464731885,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 75.9854702004574,
+        "NDVI_2019": 0.4759653699034278,
+        "NDVI_2026": 0.4497392020738222,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.02622616782960564,
+        "green_both_dates_pct_common_valid": 66.12852594286737,
+        "greenness_loss_pct_common_valid": 17.15323557110184,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 18.296784609175294,
+        "built_class_pct_2021": 64.97152338669895,
+        "built_m2_2020": 152.65882352941176,
+        "cropland_class_pct_2021": 4.686308803085339,
+        "tree_class_pct_2021": 18.90667742948114,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 8746.609497070312,
+        "geodesic_area_m2": 8760.584563924253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53257034489646,
+              22.79058013108219
+            ],
+            [
+              89.53287359647203,
+              22.789995565824285
+            ],
+            [
+              89.53499295452252,
+              22.78996187964344
+            ],
+            [
+              89.53503468717882,
+              22.792218079876243
+            ],
+            [
+              89.53260132801601,
+              22.792256758173327
+            ],
+            [
+              89.53257034489646,
+              22.79058013108219
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.5394795357448071,
+        "S2_nobs": 9.098263277441747,
+        "cell_id": "3040_10090",
+        "grid_m": 250,
+        "lat": 22.791124778121134,
+        "lon": 89.5338161810956,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 179.98725602019067,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 86.64089018196668,
+        "NDVI_2019": 0.5471137805683657,
+        "NDVI_2026": 0.5394795357448071,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.007634244823558593,
+        "green_both_dates_pct_common_valid": 79.97026771814308,
+        "greenness_loss_pct_common_valid": 17.50759257841411,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 9.047290916979303,
+        "built_class_pct_2021": 11.479468136691933,
+        "built_m2_2020": 4503.619607843138,
+        "cropland_class_pct_2021": 3.4166602863486717,
+        "tree_class_pct_2021": 78.7586453308833,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 61464.23937988281,
+        "geodesic_area_m2": 61562.53137857389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.537271857241,
+              22.789925626141983
+            ],
+            [
+              89.5374529626235,
+              22.79217960453688
+            ],
+            [
+              89.53503468717882,
+              22.792218079876243
+            ],
+            [
+              89.53499295452252,
+              22.78996187964344
+            ],
+            [
+              89.537271857241,
+              22.789925626141983
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.38003484895614625,
+        "S2_nobs": 9.565918384594879,
+        "cell_id": "3041_10090",
+        "grid_m": 250,
+        "lat": 22.791082449585016,
+        "lon": 89.53618866600809,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1027.9534216039322,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 51.55734987225245,
+        "NDVI_2019": 0.4090610846623321,
+        "NDVI_2026": 0.38003484895614625,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.029026235706186242,
+        "green_both_dates_pct_common_valid": 43.268386870282605,
+        "greenness_loss_pct_common_valid": 16.70599860875444,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 13.751877206326917,
+        "built_class_pct_2021": 66.34681021200242,
+        "built_m2_2020": 20018.00784313726,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 32.824293487800595,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 60323.318603515625,
+        "geodesic_area_m2": 60419.7065691827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53048768799525,
+              22.794547193270073
+            ],
+            [
+              89.53168342296189,
+              22.792271338646156
+            ],
+            [
+              89.53260132801601,
+              22.792256758173327
+            ],
+            [
+              89.53264302599732,
+              22.79451296194597
+            ],
+            [
+              89.53048768799525,
+              22.794547193270073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.4736346036603295,
+        "S2_nobs": 8.41686706282171,
+        "cell_id": "3039_10091",
+        "grid_m": 250,
+        "lat": 22.793549131513647,
+        "lon": 89.53181514391356,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 195.73127943911388,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 80.32672854104972,
+        "NDVI_2019": 0.5273233605719357,
+        "NDVI_2026": 0.4736346036603295,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.053688756911606426,
+        "green_both_dates_pct_common_valid": 75.25885883498616,
+        "greenness_loss_pct_common_valid": 23.966055209968797,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 13.08106604129817,
+        "built_class_pct_2021": 35.58042013633563,
+        "built_m2_2020": 4791.64705882353,
+        "cropland_class_pct_2021": 20.271478824254228,
+        "tree_class_pct_2021": 42.881133612894246,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 39467.071044921875,
+        "geodesic_area_m2": 39530.137594026535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53260132801601,
+              22.792256758173327
+            ],
+            [
+              89.53503468717882,
+              22.792218079876243
+            ],
+            [
+              89.53507642511956,
+              22.794474279398756
+            ],
+            [
+              89.53264302599732,
+              22.79451296194597
+            ],
+            [
+              89.53260132801601,
+              22.792256758173327
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.5068557333843774,
+        "S2_nobs": 8.8048,
+        "cell_id": "3040_10091",
+        "grid_m": 250,
+        "lat": 22.79336552294394,
+        "lon": 89.53383886631977,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 622.9460424383482,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 79.52,
+        "NDVI_2019": 0.5309267315084182,
+        "NDVI_2026": 0.5068557333843774,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.02407099812404076,
+        "green_both_dates_pct_common_valid": 74.88,
+        "greenness_loss_pct_common_valid": 17.6,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 9.92,
+        "built_class_pct_2021": 24.16,
+        "built_m2_2020": 11247.584313725489,
+        "cropland_class_pct_2021": 25.76,
+        "tree_class_pct_2021": 45.76,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 62500.0,
+        "geodesic_area_m2": 62599.92857623586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5374529626235,
+              22.79217960453688
+            ],
+            [
+              89.53747256187668,
+              22.792423523007546
+            ],
+            [
+              89.53750981895699,
+              22.794435559788642
+            ],
+            [
+              89.53507642511956,
+              22.794474279398756
+            ],
+            [
+              89.53503468717882,
+              22.792218079876243
+            ],
+            [
+              89.5374529626235,
+              22.79217960453688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.36642510885288077,
+        "S2_nobs": 9.316907375675523,
+        "cell_id": "3041_10091",
+        "grid_m": 250,
+        "lat": 22.79332718156741,
+        "lon": 89.53627184286,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1604.4389976950251,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 51.537462104807275,
+        "NDVI_2019": 0.4488815440906193,
+        "NDVI_2026": 0.36642510885288077,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.08245643523773888,
+        "green_both_dates_pct_common_valid": 43.054587907432165,
+        "greenness_loss_pct_common_valid": 28.809761425047547,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 23.848080290733805,
+        "built_class_pct_2021": 50.70329711714086,
+        "built_m2_2020": 20764.843137254902,
+        "cropland_class_pct_2021": 4.801626904174591,
+        "tree_class_pct_2021": 44.49507597868455,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 62479.044677734375,
+        "geodesic_area_m2": 62578.746163773765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53747256187668,
+              22.792423523007546
+            ],
+            [
+              89.53755068873343,
+              22.79339582030205
+            ],
+            [
+              89.53773696277669,
+              22.794431943632205
+            ],
+            [
+              89.53750981895699,
+              22.794435559788642
+            ],
+            [
+              89.53747256187668,
+              22.792423523007546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.12546737914743775,
+        "S2_nobs": 9.699246667954412,
+        "cell_id": "3042_10091",
+        "grid_m": 250,
+        "lat": 22.793860918800707,
+        "lon": 89.53756929213341,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 28.000596469056372,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 1.3521344407958276,
+        "NDVI_2019": 0.09878175264074368,
+        "NDVI_2026": 0.12546737914743775,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": 0.026685626506694024,
+        "green_both_dates_pct_common_valid": 0.0,
+        "greenness_loss_pct_common_valid": 0.7919644581804133,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 1.8543558045199922,
+        "built_class_pct_2021": 99.49777863627584,
+        "built_m2_2020": 424.7921568627451,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 0.5022213637241645,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 2031.3935546875,
+        "geodesic_area_m2": 2034.6531225432707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.52929191629687,
+              22.796823041916635
+            ],
+            [
+              89.53021898349854,
+              22.795058610851925
+            ],
+            [
+              89.53025128489149,
+              22.796807814738578
+            ],
+            [
+              89.52929191629687,
+              22.796823041916635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.21224316928074402,
+        "S2_nobs": 8.0,
+        "cell_id": "3038_10092",
+        "grid_m": 250,
+        "lat": 22.796229822501765,
+        "lon": 89.5299207282356,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 173.05302774765912,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 12.637069284159516,
+        "NDVI_2019": 0.2105173387529107,
+        "NDVI_2026": 0.2122480900104697,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": 0.0017307512575591316,
+        "green_both_dates_pct_common_valid": 4.189255791030065,
+        "greenness_loss_pct_common_valid": 6.312633481189421,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 7.359947428946937,
+        "built_class_pct_2021": 94.71825201248564,
+        "built_m2_2020": 2670.113725490196,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 5.236569738787581,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 9551.57275390625,
+        "geodesic_area_m2": 9566.78301536993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53021898349854,
+              22.795058610851925
+            ],
+            [
+              89.53048768799525,
+              22.794547193270073
+            ],
+            [
+              89.53264302599732,
+              22.79451296194597
+            ],
+            [
+              89.53268472925836,
+              22.796769165008406
+            ],
+            [
+              89.53025128489149,
+              22.796807814738578
+            ],
+            [
+              89.53021898349854,
+              22.795058610851925
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.46794772941050017,
+        "S2_nobs": 9.071907555600754,
+        "cell_id": "3039_10092",
+        "grid_m": 250,
+        "lat": 22.795672632806557,
+        "lon": 89.53146201463579,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 717.2041279213101,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 66.9999427943074,
+        "NDVI_2019": 0.5199109077687986,
+        "NDVI_2026": 0.46794772941050017,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.051963178358298064,
+        "green_both_dates_pct_common_valid": 62.78579010595766,
+        "greenness_loss_pct_common_valid": 23.36979666554374,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 18.41260559217426,
+        "built_class_pct_2021": 35.8152129005193,
+        "built_m2_2020": 10725.164705882351,
+        "cropland_class_pct_2021": 7.45580860246493,
+        "tree_class_pct_2021": 55.59439892707545,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 61697.55419921875,
+        "geodesic_area_m2": 61796.33618248752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53264302599732,
+              22.79451296194597
+            ],
+            [
+              89.53507642511956,
+              22.794474279398756
+            ],
+            [
+              89.53511816834508,
+              22.796730478210932
+            ],
+            [
+              89.53268472925836,
+              22.796769165008406
+            ],
+            [
+              89.53264302599732,
+              22.79451296194597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.5197345477153451,
+        "S2_nobs": 9.8544,
+        "cell_id": "3040_10092",
+        "grid_m": 250,
+        "lat": 22.79562172423701,
+        "lon": 89.533880586918,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1349.4294140684838,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 82.56,
+        "NDVI_2019": 0.5515034953465626,
+        "NDVI_2026": 0.5197345477153451,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.03176894763121793,
+        "green_both_dates_pct_common_valid": 75.84,
+        "greenness_loss_pct_common_valid": 18.4,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 10.4,
+        "built_class_pct_2021": 22.88,
+        "built_m2_2020": 17185.447058823527,
+        "cropland_class_pct_2021": 4.16,
+        "tree_class_pct_2021": 71.2,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 62500.0,
+        "geodesic_area_m2": 62599.905015793614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53507642511956,
+              22.794474279398756
+            ],
+            [
+              89.53750981895699,
+              22.794435559788642
+            ],
+            [
+              89.53755160214662,
+              22.79669175434648
+            ],
+            [
+              89.53511816834508,
+              22.796730478210932
+            ],
+            [
+              89.53507642511956,
+              22.794474279398756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.33649018219709703,
+        "S2_nobs": 9.7488,
+        "cell_id": "3041_10092",
+        "grid_m": 250,
+        "lat": 22.79558302103267,
+        "lon": 89.53631400338067,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 2207.5497607062844,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 44.64,
+        "NDVI_2019": 0.35239606699378595,
+        "NDVI_2026": 0.33649018219709703,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.015905884796688162,
+        "green_both_dates_pct_common_valid": 35.2,
+        "greenness_loss_pct_common_valid": 12.64,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 10.4,
+        "built_class_pct_2021": 78.56,
+        "built_m2_2020": 26686.62745098039,
+        "cropland_class_pct_2021": 0.32,
+        "tree_class_pct_2021": 20.96,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 62500.0,
+        "geodesic_area_m2": 62599.704189215896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53773696277669,
+              22.794431943632205
+            ],
+            [
+              89.53814155514539,
+              22.79668236067595
+            ],
+            [
+              89.53755160214662,
+              22.79669175434648
+            ],
+            [
+              89.53750981895699,
+              22.794435559788642
+            ],
+            [
+              89.53773696277669,
+              22.794431943632205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.23551649364116137,
+        "S2_nobs": 10.0,
+        "cell_id": "3042_10092",
+        "grid_m": 250,
+        "lat": 22.7957271576416,
+        "lon": 89.53775150147895,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 317.6886720844344,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 18.953979588021987,
+        "NDVI_2019": 0.2448733377676487,
+        "NDVI_2026": 0.23551649364116137,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.009356844126487324,
+        "green_both_dates_pct_common_valid": 14.187446259673262,
+        "greenness_loss_pct_common_valid": 9.013421062469627,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 11.533141425847697,
+        "built_class_pct_2021": 89.03136565852931,
+        "built_m2_2020": 4105.396078431373,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 10.968634341470711,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 10493.166259765625,
+        "geodesic_area_m2": 10509.983447015418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5302880395109,
+              22.798797963019126
+            ],
+            [
+              89.52845263575706,
+              22.79842035457946
+            ],
+            [
+              89.52929191629687,
+              22.796823041916635
+            ],
+            [
+              89.53025128489149,
+              22.796807814738578
+            ],
+            [
+              89.5302880395109,
+              22.798797963019126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.2845576635054659,
+        "S2_nobs": 8.014150754306025,
+        "cell_id": "3038_10093",
+        "grid_m": 250,
+        "lat": 22.79781478067658,
+        "lon": 89.52956617103325,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 508.6231771431717,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 33.68253671312319,
+        "NDVI_2019": 0.2956439384968692,
+        "NDVI_2026": 0.2845576635054659,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.011086274991403128,
+        "green_both_dates_pct_common_valid": 28.49392680091399,
+        "greenness_loss_pct_common_valid": 13.840747223966753,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 10.035143044216095,
+        "built_class_pct_2021": 81.94075123267895,
+        "built_m2_2020": 7982.301960784315,
+        "cropland_class_pct_2021": 3.4074054277964105,
+        "tree_class_pct_2021": 13.288881168406002,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 29352.152709960938,
+        "geodesic_area_m2": 29399.177944510328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53148898587347,
+              22.799045027950044
+            ],
+            [
+              89.5302880395109,
+              22.798797963019126
+            ],
+            [
+              89.53025128489149,
+              22.796807814738578
+            ],
+            [
+              89.53268472925836,
+              22.796769165008406
+            ],
+            [
+              89.53272643779954,
+              22.799025367360578
+            ],
+            [
+              89.53148898587347,
+              22.799045027950044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.3467958084655015,
+        "S2_nobs": 8.78103595337176,
+        "cell_id": "3039_10093",
+        "grid_m": 250,
+        "lat": 22.79788518831449,
+        "lon": 89.53151269216997,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1366.3373552210187,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 44.95593062627619,
+        "NDVI_2019": 0.43296328992360045,
+        "NDVI_2026": 0.3467958084655015,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.08616748145809808,
+        "green_both_dates_pct_common_valid": 39.18878751066193,
+        "greenness_loss_pct_common_valid": 31.921217917237456,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 27.30039546124222,
+        "built_class_pct_2021": 61.0838998164853,
+        "built_m2_2020": 19180.6431372549,
+        "cropland_class_pct_2021": 6.6297914135800875,
+        "tree_class_pct_2021": 30.309002558866858,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 60688.81750488281,
+        "geodesic_area_m2": 60785.97318386117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53268472925836,
+              22.796769165008406
+            ],
+            [
+              89.53511816834508,
+              22.796730478210932
+            ],
+            [
+              89.5351599168558,
+              22.7989866763127
+            ],
+            [
+              89.53272643779954,
+              22.799025367360578
+            ],
+            [
+              89.53268472925836,
+              22.796769165008406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.42578828366407523,
+        "S2_nobs": 9.96,
+        "cell_id": "3040_10093",
+        "grid_m": 250,
+        "lat": 22.79787792481749,
+        "lon": 89.53392231279976,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1434.871828086703,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 60.96,
+        "NDVI_2019": 0.4290427269914755,
+        "NDVI_2026": 0.42578828366407523,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.0032544433274005057,
+        "green_both_dates_pct_common_valid": 45.6,
+        "greenness_loss_pct_common_valid": 21.28,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 17.12,
+        "built_class_pct_2021": 40.64,
+        "built_m2_2020": 18460.654901960785,
+        "cropland_class_pct_2021": 17.44,
+        "tree_class_pct_2021": 37.12,
+        "water_wetland_class_pct_2021": 1.28,
+        "projected_area_m2": 62500.0,
+        "geodesic_area_m2": 62599.88145352402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53511816834508,
+              22.796730478210932
+            ],
+            [
+              89.53755160214662,
+              22.79669175434648
+            ],
+            [
+              89.5375933906265,
+              22.79894794819378
+            ],
+            [
+              89.5351599168558,
+              22.7989866763127
+            ],
+            [
+              89.53511816834508,
+              22.796730478210932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.4103538418463572,
+        "S2_nobs": 9.9968,
+        "cell_id": "3041_10093",
+        "grid_m": 250,
+        "lat": 22.79783921736185,
+        "lon": 89.53635576922929,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 1695.6688852048387,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 61.12,
+        "NDVI_2019": 0.4375833684855422,
+        "NDVI_2026": 0.4103538418463572,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.027229526639185268,
+        "green_both_dates_pct_common_valid": 49.44,
+        "greenness_loss_pct_common_valid": 20.16,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 14.08,
+        "built_class_pct_2021": 55.2,
+        "built_m2_2020": 21424.039215686273,
+        "cropland_class_pct_2021": 8.0,
+        "tree_class_pct_2021": 29.6,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 62500.0,
+        "geodesic_area_m2": 62599.680627158785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53814155514539,
+              22.79668236067595
+            ],
+            [
+              89.5385461646053,
+              22.798932774915695
+            ],
+            [
+              89.5375933906265,
+              22.79894794819378
+            ],
+            [
+              89.53755160214662,
+              22.79669175434648
+            ],
+            [
+              89.53814155514539,
+              22.79668236067595
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.30711027334027285,
+        "S2_nobs": 9.96777003484321,
+        "cell_id": "3042_10093",
+        "grid_m": 250,
+        "lat": 22.79790203218005,
+        "lon": 89.53796692680274,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 475.6794263054343,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 35.183718720304086,
+        "NDVI_2019": 0.3205269017025897,
+        "NDVI_2026": 0.30711027334027285,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.013416628362316574,
+        "green_both_dates_pct_common_valid": 28.411070636680392,
+        "greenness_loss_pct_common_valid": 12.476243268926197,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 10.096610706366805,
+        "built_class_pct_2021": 75.12076338295851,
+        "built_m2_2020": 6055.654901960785,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 19.18356034209693,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 19811.428344726562,
+        "geodesic_area_m2": 19843.094316750554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53273152688494,
+              22.799300639251186
+            ],
+            [
+              89.53148898587347,
+              22.799045027950044
+            ],
+            [
+              89.53272643779954,
+              22.799025367360578
+            ],
+            [
+              89.53273152688494,
+              22.799300639251186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.25525066382675765,
+        "S2_nobs": 9.393197003441992,
+        "cell_id": "3039_10094",
+        "grid_m": 250,
+        "lat": 22.799123678184223,
+        "lon": 89.5323156501919,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 25.900868195178465,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 21.785786596477024,
+        "NDVI_2019": 0.6398653750660429,
+        "NDVI_2026": 0.25525066382675765,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.3846147112392853,
+        "green_both_dates_pct_common_valid": 21.785786596477024,
+        "greenness_loss_pct_common_valid": 100.0,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 78.21421340352298,
+        "built_class_pct_2021": 84.97671593439968,
+        "built_m2_2020": 360.6745098039215,
+        "cropland_class_pct_2021": 0.0,
+        "tree_class_pct_2021": 15.023284065600325,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 1938.8040771484375,
+        "geodesic_area_m2": 1941.8738510070739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53517502846374,
+              22.79980327633182
+            ],
+            [
+              89.53273152688494,
+              22.799300639251186
+            ],
+            [
+              89.53272643779954,
+              22.799025367360578
+            ],
+            [
+              89.5351599168558,
+              22.7989866763127
+            ],
+            [
+              89.53517502846374,
+              22.79980327633182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.23089391104620396,
+        "S2_nobs": 9.285517921053994,
+        "cell_id": "3040_10094",
+        "grid_m": 250,
+        "lat": 22.799298157850238,
+        "lon": 89.53414971965195,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 318.08026064704444,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 17.005550080398358,
+        "NDVI_2019": 0.38290175241479324,
+        "NDVI_2026": 0.23089391104620396,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.15200784136858939,
+        "green_both_dates_pct_common_valid": 14.360184656880538,
+        "greenness_loss_pct_common_valid": 45.91005757560039,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 35.55941698220861,
+        "built_class_pct_2021": 85.60869339696039,
+        "built_m2_2020": 4169.741176470588,
+        "cropland_class_pct_2021": 5.106592665594687,
+        "tree_class_pct_2021": 7.300689869806524,
+        "water_wetland_class_pct_2021": 0.0,
+        "projected_area_m2": 15123.223510742188,
+        "geodesic_area_m2": 15147.316914579289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.53761854424285,
+              22.800305874258417
+            ],
+            [
+              89.53517502846374,
+              22.79980327633182
+            ],
+            [
+              89.5351599168558,
+              22.7989866763127
+            ],
+            [
+              89.5375933906265,
+              22.79894794819378
+            ],
+            [
+              89.53761854424285,
+              22.800305874258417
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.3715425950252433,
+        "S2_nobs": 9.747607328411268,
+        "cell_id": "3041_10094",
+        "grid_m": 250,
+        "lat": 22.799520567394815,
+        "lon": 89.53648789279401,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 360.2861994724648,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 48.57090771774937,
+        "NDVI_2019": 0.4036175156824578,
+        "NDVI_2026": 0.3715425950252433,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.03207492065721457,
+        "green_both_dates_pct_common_valid": 38.27753688295114,
+        "greenness_loss_pct_common_valid": 27.77582457648085,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 22.209200880242722,
+        "built_class_pct_2021": 40.177350677760856,
+        "built_m2_2020": 4579.219607843137,
+        "cropland_class_pct_2021": 18.073622667552122,
+        "tree_class_pct_2021": 22.490461867000015,
+        "water_wetland_class_pct_2021": 0.33204422047736243,
+        "projected_area_m2": 30118.8251953125,
+        "geodesic_area_m2": 30166.802241657162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.5385461646053,
+              22.798932774915695
+            ],
+            [
+              89.53883814905677,
+              22.80055671462192
+            ],
+            [
+              89.53761854424285,
+              22.800305874258417
+            ],
+            [
+              89.5375933906265,
+              22.79894794819378
+            ],
+            [
+              89.5385461646053,
+              22.798932774915695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NDVI_S2_median": 0.22566630499664644,
+        "S2_nobs": 9.440975735784873,
+        "cell_id": "3042_10094",
+        "grid_m": 250,
+        "lat": 22.799715011458154,
+        "lon": 89.53816655849444,
+        "optical_valid_pct": 100.0,
+        "period_end_exclusive": "2026-06-01",
+        "period_start": "2026-03-15",
+        "pop_year": 2020,
+        "population_modelled": 378.4543880088657,
+        "site": "ZeroPoint_Nirala_Pilot",
+        "veg_ndvi_threshold": 0.35,
+        "vegetation_pct_valid": 22.54612784464013,
+        "NDVI_2019": 0.2694025397270542,
+        "NDVI_2026": 0.22566630499664644,
+        "common_valid_pct": 100.0,
+        "delta_NDVI": -0.043736234730407685,
+        "green_both_dates_pct_common_valid": 20.899089284560898,
+        "greenness_loss_pct_common_valid": 13.378689689323314,
+        "loss_delta_ndvi": -0.15,
+        "new_end_exclusive": "2026-06-01",
+        "new_start": "2026-03-15",
+        "old_end_exclusive": "2019-06-01",
+        "old_start": "2019-03-15",
+        "vegetated_to_lower_pct_common_valid": 11.079294679957803,
+        "built_class_pct_2021": 70.01098025706717,
+        "built_m2_2020": 4809.270588235294,
+        "cropland_class_pct_2021": 1.0980257067194867,
+        "tree_class_pct_2021": 18.920490020884017,
+        "water_wetland_class_pct_2021": 0.5490128533597434,
+        "projected_area_m2": 18216.751953125,
+        "geodesic_area_m2": 18245.78054309176
+      }
+    }
+  ]
+}

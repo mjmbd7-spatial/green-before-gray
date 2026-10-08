@@ -1,0 +1,15 @@
+{
+  "area_km2": 0.9341984159088523,
+  "cells": 423,
+  "vegetation_pct": 58.10118744925415,
+  "NDVI_2019": 0.4465929184335178,
+  "NDVI_2026": 0.4044054498455439,
+  "delta_NDVI": -0.0421874685879739,
+  "declining_cells": 272,
+  "optical_valid_pct": 99.99959277714125,
+  "greenness_loss_pct": 21.566634497286074,
+  "thermal_valid_pixels": 0,
+  "projected_area_km2": 0.9327080653076172,
+  "omitted_sliver_m2": 0.45409664992904214,
+  "grid_m": 50
+}
